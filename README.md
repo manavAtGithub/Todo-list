@@ -91,4 +91,3 @@ This section provides instructions for testing the To-Do List component to ensur
 - **Step 2:** Click the "Reset" button.
 
 **Expected Result:** All tasks should be cleared from the list and localStorage, preparing the list for a new day.
-
